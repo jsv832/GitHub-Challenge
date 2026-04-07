@@ -1,0 +1,8 @@
+movie_1 =  "Dune 2"
+movie_exist = False
+if movie_1 != "" :
+	movie_exist = True
+
+movie_exist = True
+if movie_exist == True:
+	print("tickets have been realised")
