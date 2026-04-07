@@ -6,3 +6,5 @@ if movie_1 != "" :
 movie_exist = True
 if movie_exist == True:
 	print("tickets have been realised")
+print("");
+
